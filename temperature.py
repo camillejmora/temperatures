@@ -11,6 +11,7 @@ y_axis2 = data['Y2']
 
 # make the y values less than 0 the color blue and greater than 0 the color red
 plt.bar(x_axis, y_axis, width=5, color=['blue' if y < 0 else 'red' for y in y_axis])
+
 # plot the y2 values as a line
 plt.plot(x_axis, y_axis2, color='black')
 
