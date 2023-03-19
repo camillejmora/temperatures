@@ -1,5 +1,5 @@
 # temperatures
 
-Several plots of data showing the increase in global temperatures.
+Using data from NOAA, I used Python to plot the change in temperatures over time.
 
-Testing if we can push this into GitHub from VS Code.
+Data in data.xslx was sourced from here: https://climate.nasa.gov/vital-signs/global-temperature/
